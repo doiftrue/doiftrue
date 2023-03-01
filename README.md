@@ -16,8 +16,8 @@ I am the creator and owner of one of the most popular sites about WordPress: htt
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doiftrue&layout=compact)
 
-
-
+## Wakatime Week Stats
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=doiftrue)
 
 
 
