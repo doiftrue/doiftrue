@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-I am Timur — a senior software engineer at [EPAM](https://www.epam.com/). I'm WEB developer for more than 10 years. 
+I’m Timur — a senior software engineer at [EPAM Systems](https://www.epam.com/). I'm Web Developer for more than 10 years. Programming is my passion. 
 
-I am the creator and owner of one of the most popular sites about WordPress: https://wp-kama.ru.
+I’m the creator and owner of one of the most popular sites about WordPress: https://wp-kama.ru.
 
 
-#### 📫 How to reach me:
-
-- https://t.me/doiftrue
 
 ## GitHub Stats
 ![Kama's github stats](https://github-readme-stats.vercel.app/api?username=doiftrue&show_icons=true&count_private=true&theme=default)
@@ -19,6 +16,10 @@ I am the creator and owner of one of the most popular sites about WordPress: htt
 ## Wakatime Week Stats
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kama)
 
+
+#### 📫 How to reach me:
+
+- https://t.me/doiftrue
 
 
 
