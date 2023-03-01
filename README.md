@@ -8,6 +8,8 @@ I am the creator and owner of one of the most popular sites about WordPress: htt
 
 - https://t.me/doiftrue
 
+## GitHub Stats
+![Kama's github stats](https://github-readme-stats.vercel.app/api?username=doiftrue&show_icons=true&theme=default)
 
 <!--
 **doiftrue/doiftrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
