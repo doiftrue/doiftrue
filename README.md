@@ -2,7 +2,7 @@
 
 I’m Timur — a senior software engineer at [EPAM Systems](https://www.epam.com/). I'm Web Developer for more than 10 years. Programming is my passion. 
 
-My keen eye for detail allows me to create complex compositions with ease and finesse in PHP. I know the ins and outs of the WordPress platform like the back of my hand, and I am capable of crafting custom themes and plugins that are both functional and beautiful.
+My keen eye for detail allows me to create complex compositions with ease and finesse in PHP. I know the ins and outs of the WordPress platform like the back of my hand, and I am capable of crafting custom themes and plugins that are both functional and beautiful. When faced with a challenging task, I am like a detective on a mission, diving deep to find the solution and never giving up until the job is done.
 
 With my coding skills and attention to detail, I'll work tirelessly to turn your ideas into a stunning reality. From custom WordPress themes and plugins to complex PHP solutions, I have the expertise to make it happen. 
 
