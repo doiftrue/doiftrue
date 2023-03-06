@@ -8,6 +8,8 @@ With my coding skills and attention to detail, I'll work tirelessly to turn your
 
 I created https://wp-kama.ru about 10 years ago, and today it is the most popular and helpful website about WordPress in the Russian language.
 
+## GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=doiftrue&date_format=j%20M%5B%20Y%5D)
 
 ## GitHub Stats
 ![Kama's github stats](https://github-readme-stats.vercel.app/api?username=doiftrue&show_icons=true&count_private=true&theme=default)
