@@ -15,11 +15,10 @@ I created https://wp-kama.ru about 10 years ago, and today it is the most popula
 ![Kama's github stats](https://github-readme-stats.vercel.app/api?username=doiftrue&show_icons=true&count_private=true&theme=default)
 
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doiftrue&layout=compact)
 
-## Wakatime Week Stats
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kama)
+| Top Languages | Wakatime Week Stats |
+| ------------- | ------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doiftrue&layout=compact) | ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kama) |
 
 
 #### 📫 How to reach me:
