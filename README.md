@@ -6,7 +6,7 @@ My keen eye for detail allows me to create complex compositions with ease and fi
 
 With my coding skills and attention to detail, I'll work tirelessly to turn your ideas into a stunning reality. From custom WordPress themes and plugins to complex PHP solutions, I have the expertise to make it happen. 
 
-I created https://wp-kama.ru about 10 years ago, and today it is the most popular and helpful website about WordPress in the Russian language.
+I created [wp-kama.ru](https://wp-kama.ru) about 10 years ago, and today it is the most popular and helpful website about WordPress in the Russian language.
 
 ## GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=doiftrue&date_format=j%20M%5B%20Y%5D)
