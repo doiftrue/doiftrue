@@ -18,9 +18,8 @@ I created [wp-kama.ru](https://wp-kama.ru) about 10 years ago, and today it is t
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doiftrue&layout=compact)
 
 ## Wakatime Week Stats
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kama)
-
 ![Wakatime stats](https://wakatime.com/share/@kama/0c67cd7a-ed8b-4a8f-bb93-5fe3c6ecc7f5.svg)
+<!-- https://wakatime.com/share/embed -->
 
 
 
