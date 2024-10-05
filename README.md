@@ -20,6 +20,8 @@ I created [wp-kama.ru](https://wp-kama.ru) about 10 years ago, and today it is t
 ## Wakatime Week Stats
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kama)
 
+<figure><embed src="https://wakatime.com/share/@kama/0c67cd7a-ed8b-4a8f-bb93-5fe3c6ecc7f5.svg"></embed></figure>
+
 
 
 #### 📫 How to reach me:
